@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
-        System.out.println("Hello world !");
+        Fraction fraction = new Fraction(0, 0);
+        System.out.println(fraction.toString());
     }
-    
 }
